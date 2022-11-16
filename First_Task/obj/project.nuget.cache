@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vqFiYp5n/up/c9MLvLFMRmRS4NCC2utlopp6PASvVFufzOnRyWXRVXH9QkP/RRpjfG3YyL9ow6Y9JMk9dsFVQQ==",
+  "success": true,
+  "projectFilePath": "/Users/seymur/Desktop/BackEnd/16.11.2022_Homework/First_Task/First_Task.csproj",
+  "expectedPackageFiles": [
+    "/Users/seymur/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/seymur/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512",
+    "/Users/seymur/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

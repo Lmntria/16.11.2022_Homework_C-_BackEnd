@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{3C263181-4842-4E0E-B2A1-5C5A359EC149}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.First__Task PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Second_Task/Views/Services/Index.cshtml">
+    <Files>
+      <File FileName="Views/Services/Index.cshtml" Line="12" Column="45" />
+      <File FileName="Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="55" Column="1" />
+      <File FileName="Views/About/Index.cshtml" Line="12" Column="30" />
+      <File FileName="Views/Home/Index.cshtml" Line="13" Column="1" />
+      <File FileName="Startup.cs" Line="32" Column="1" />
+      <File FileName="../Second_Task/Startup.cs" Line="39" Column="1" />
+      <File FileName="../Second_Task/Controllers/AboutController.cs" Line="9" Column="22" />
+      <File FileName="../Second_Task/Controllers/HomeController.cs" Line="25" Column="15" />
+      <File FileName="../Second_Task/Controllers/ServicesController.cs" Line="17" Column="40" />
+      <File FileName="../Second_Task/Views/Home/Index.cshtml" Line="121" Column="51" />
+      <File FileName="../Second_Task/Models/Data.cs" Line="8" Column="45" />
+      <File FileName="../Second_Task/Models/Service.cs" Line="5" Column="3" />
+      <File FileName="../Second_Task/Views/Services/Index.cshtml" Line="22" Column="9" />
+      <File FileName="../Second_Task/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="../Second_Task/Views/Shared/_Layout.cshtml" Line="70" Column="51" />
+      <File FileName="../Second_Task/Program.cs" Line="24" Column="20" />
+      <File FileName="../Second_Task/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="../Second_Task/Models/Features.cs" Line="6" Column="33" />
+      <File FileName="../Second_Task/ViewModels/HomeVm.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Second__Task PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
